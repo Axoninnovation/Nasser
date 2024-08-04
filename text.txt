@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nasser E. Razavi - Industrial Designer</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; }
+        header { background: #333; color: #fff; padding: 1em 0; text-align: center; }
+        nav ul { list-style: none; padding: 0; }
+        nav ul li { display: inline; margin: 0 1em; }
+        nav ul li a { color: #fff; text-decoration: none; }
+        section { margin: 2em 0; }
+        footer { text-align: center; padding: 1em 0; background: #333; color: #fff; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nasser E. Razavi</h1>
+        <p>Industrial Designer</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Accomplished industrial designer with a passion for creating sustainable solutions. Inspired by nature and fascinated by the universe, I enjoy translating beauty into tangible products and services. With a user-centered design approach and environmental considerations, I aim to make the world a better place for everyone.</p>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <ul>
+            <li>Electric vehicles inspired by Cheetah</li>
+            <li>Medical equipment designs</li>
+            <li>Cold Plasma Device for Poya Fanavaran Yeson Co.</li>
+            <li>Sputter Coater for Vaccoat Co.</li>
+            <li>Smart Portable Embosser</li>
+        </ul>
+        <p>Awards and Achievements:</p>
+        <ul>
+            <li>iF Design Award 2020, Winner, Professional Concept | COOKACROSS</li>
+            <li>Iran Design Awards Cold Plasma Yeson Co. in 2020</li>
+            <li>The Idiran Design Award 2018, Golden Prize Winner, Product Design | Vital signs monitor</li>
+        </ul>
+    </section>
+
+    <section id="experience">
+        <h2>Professional Experience</h2>
+        <h3>Axon Innovation Design Studio</h3>
+        <p>Founder & CEO</p>
+        <p>Overseeing all operational activities and functions, designing products in the digital technology sector, and honored with various awards.</p>
+
+        <h3>Zavie Design Studio</h3>
+        <p>Chairman of the Board & Senior Executive of Product Design Team</p>
+        <p>Responsible for overseeing all aspects of conceptualization and industrial design, leading numerous successful product design projects.</p>
+
+        <h3>Iran Industrial Design Association (IDAI)</h3>
+        <p>Member of the Board</p>
+
+        <h3>Tech-Export Services Corridor (TESC)</h3>
+        <p>Consultant</p>
+        <p>Provided consultancy services, designed products that significantly increased exports, and coordinated the formation of the Iran Design Center and the First Design Festival.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Address: Blue spruce lane, Thornhill, Toronto, Canada</p>
+        <p>Phone: +1 437-333-4626 | +989121229646</p>
+        <p>Email: <a href="mailto:Axon.innovations@gmail.com">Axon.innovations@gmail.com</a></p>
+        <p>LinkedIn: <a href="http://www.linkedin.com/in/nasser-emamirazavi/" target="_blank">linkedin.com/in/nasser-emamirazavi</a></p>
+        <p>Website: <a href="http://www.axoninnovation.com" target="_blank">axoninnovation.com</a></p>
+        <p>Website: <a href="http://www.zaviedesign.com" target="_blank">zaviedesign.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Nasser E. Razavi. All rights reserved.</p>
+    </footer>
+</body>
+</html>
